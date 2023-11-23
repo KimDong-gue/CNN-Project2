@@ -1,6 +1,6 @@
 # CNN-Project2
 
-## MNIST 데이터를 이용한 CNN 웹 프로젝트
+## Subject: MNIST 데이터를 이용한 CNN 웹 프로젝트
 
 ## Project Schedule: 2023.1 ~ 2023.2 (Alpha co.)
 
