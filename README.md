@@ -1,10 +1,14 @@
 # CNN-Project2
 
+## MNIST 데이터를 이용한 CNN 웹 프로젝트
+
 ## Project Schedule: 2023.1 ~ 2023.2 (Alpha co.)
 
-## Computing Skill: Web(Flask), DeepLearning(CNN)
+## Data Set: 0~9의 숫자 이미지로 이루어진 MNIST train 60,000 test 30,000 으로 사용
 
-## Data Set: MNIST train 60,000 : Test 30,000
+## Method: Web(Flask), DeepLearning(CNN)
+
+## Role: CNN 모델 개선, 데이터 정제 및 전처리, 발표, 팀장
 
 ## Result: 
 ![output](https://github.com/KimDong-gue/CNN-Project2/assets/116249934/91986597-84c1-47d6-9fc3-1937d1a8cd04)
